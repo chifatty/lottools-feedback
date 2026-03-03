@@ -24,6 +24,8 @@ Suggested details to include:
 - screenshot (optional)
 - browser / device (optional)
 
+For screenshots, you can drag the image directly into the GitHub issue editor.
+
 Notes:
 - The main Lottools source repository is private.
 - Please use Issues for feedback.
@@ -50,6 +52,8 @@ Notes:
 - 重現步驟
 - 截圖（可選）
 - 瀏覽器 / 裝置資訊（可選）
+
+如果要附截圖，直接把圖片拖進 GitHub issue 的編輯框即可。
 
 補充說明：
 - Lottools 主程式 repo 是 private。
@@ -78,6 +82,8 @@ Issue はどの言語でも投稿できます。
 - スクリーンショット（任意）
 - ブラウザ / 端末情報（任意）
 
+スクリーンショットを添付したい場合は、画像を GitHub issue の入力欄にそのままドラッグしてください。
+
 補足:
 - Lottools のメインソース repo は private です。
 - フィードバックは Issues を使ってください。
@@ -104,6 +110,8 @@ Si possible, merci d'inclure :
 - les étapes de reproduction
 - une capture d'écran (optionnel)
 - le navigateur / appareil (optionnel)
+
+Pour joindre une capture d'écran, vous pouvez simplement faire glisser l'image dans l'éditeur d'issue GitHub.
 
 Remarques :
 - Le repo principal de Lottools est private.
@@ -132,6 +140,8 @@ Issue 는 어떤 언어로 작성해도 됩니다.
 - 스크린샷 (선택)
 - 브라우저 / 기기 정보 (선택)
 
+스크린샷을 첨부하려면 이미지를 GitHub issue 입력창으로 바로 드래그하면 됩니다.
+
 안내:
 - Lottools 메인 소스 repo 는 private 입니다.
 - feedback 은 Issues 로 남겨 주세요.
@@ -158,6 +168,8 @@ Si es posible, incluye:
 - pasos para reproducirlo
 - captura de pantalla (opcional)
 - navegador / dispositivo (opcional)
+
+Para adjuntar una captura, puedes arrastrar la imagen directamente al editor del issue en GitHub.
 
 Notas:
 - El repo principal de Lottools es private.
@@ -186,6 +198,8 @@ Wenn möglich, füge bitte Folgendes hinzu:
 - Screenshot (optional)
 - Browser / Gerät (optional)
 
+Für Screenshots kannst du das Bild einfach direkt in den GitHub-Issue-Editor ziehen.
+
 Hinweise:
 - Das Haupt-Repo von Lottools ist private.
 - Bitte nutze Issues für Feedback.
@@ -212,6 +226,8 @@ Se possível, inclua:
 - passos para reproduzir
 - captura de tela (opcional)
 - navegador / dispositivo (opcional)
+
+Para anexar uma captura de tela, basta arrastar a imagem para o editor da issue no GitHub.
 
 Notas:
 - O repo principal do Lottools é private.
@@ -240,6 +256,8 @@ Kung maaari, isama rin ang:
 - screenshot (opsyonal)
 - browser / device (opsyonal)
 
+Kung maglalagay ka ng screenshot, puwede mong i-drag ang image diretso sa editor ng GitHub issue.
+
 Paalala:
 - Ang main source repo ng Lottools ay private.
 - Gamitin ang Issues para sa feedback.
@@ -266,6 +284,8 @@ Nếu có thể, vui lòng thêm:
 - các bước để tái hiện
 - ảnh chụp màn hình (tùy chọn)
 - trình duyệt / thiết bị (tùy chọn)
+
+Nếu muốn đính kèm ảnh chụp màn hình, bạn chỉ cần kéo ảnh trực tiếp vào khung soạn issue trên GitHub.
 
 Lưu ý:
 - Repo mã nguồn chính của Lottools là private.
@@ -294,6 +314,8 @@ repo นี้คือ public feedback portal ของ Lottools
 - ภาพหน้าจอ (ไม่บังคับ)
 - browser / อุปกรณ์ (ไม่บังคับ)
 
+หากต้องการแนบภาพหน้าจอ สามารถลากรูปภาพลงในช่องเขียน issue ของ GitHub ได้โดยตรง
+
 หมายเหตุ:
 - repo หลักของ Lottools เป็น private
 - กรุณาใช้ Issues สำหรับการส่ง feedback
@@ -320,6 +342,8 @@ Jika memungkinkan, sertakan:
 - langkah untuk reproduksi
 - tangkapan layar (opsional)
 - browser / perangkat (opsional)
+
+Untuk melampirkan tangkapan layar, Anda bisa langsung menyeret gambar ke editor issue GitHub.
 
 Catatan:
 - Repo source utama Lottools bersifat private.

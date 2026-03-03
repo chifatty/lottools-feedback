@@ -1,11 +1,13 @@
 # Lottools Feedback
 
-Language / 語言 / 言語 / Langue / 언어 / Idioma / Sprache / Bahasa:
 [English](#english) | [繁體中文](#繁體中文) | [日本語](#日本語) | [Français](#français) | [한국어](#한국어) | [Español](#español) | [Deutsch](#deutsch) | [Português](#português) | [Filipino](#filipino) | [Tiếng Việt](#tiếng-việt) | [ไทย](#ไทย) | [Bahasa Indonesia](#bahasa-indonesia)
 
 ## English
 
 This repository is the public feedback portal for Lottools.
+
+- Live site: https://lottools.cc
+- [Create an issue](https://github.com/chifatty/lottools-feedback/issues/new)
 
 Use this repository to:
 - report bugs
@@ -31,6 +33,9 @@ Notes:
 
 這個 repo 是 Lottools 的公開 feedback portal。
 
+- 正式網站：https://lottools.cc
+- [建立 issue](https://github.com/chifatty/lottools-feedback/issues/new)
+
 你可以在這裡：
 - 回報 bug
 - 提出改善建議
@@ -54,6 +59,9 @@ Notes:
 ## 日本語
 
 この repo は Lottools の公開フィードバック窓口です。
+
+- 本番サイト: https://lottools.cc
+- [Issue を作成](https://github.com/chifatty/lottools-feedback/issues/new)
 
 ここでは次の内容を受け付けます。
 - バグ報告
@@ -79,6 +87,9 @@ Issue はどの言語でも投稿できます。
 
 Ce repo est le portail public de feedback pour Lottools.
 
+- Site en production : https://lottools.cc
+- [Créer une issue](https://github.com/chifatty/lottools-feedback/issues/new)
+
 Vous pouvez l'utiliser pour :
 - signaler un bug
 - proposer une amélioration
@@ -102,6 +113,9 @@ Remarques :
 ## 한국어
 
 이 repo 는 Lottools 의 공개 feedback 창구입니다.
+
+- 운영 사이트: https://lottools.cc
+- [Issue 만들기](https://github.com/chifatty/lottools-feedback/issues/new)
 
 다음 내용을 남길 수 있습니다.
 - 버그 제보
@@ -127,6 +141,9 @@ Issue 는 어떤 언어로 작성해도 됩니다.
 
 Este repo es el portal público de feedback de Lottools.
 
+- Sitio en producción: https://lottools.cc
+- [Crear un issue](https://github.com/chifatty/lottools-feedback/issues/new)
+
 Puedes usarlo para:
 - reportar bugs
 - sugerir mejoras
@@ -150,6 +167,9 @@ Notas:
 ## Deutsch
 
 Dieses Repo ist das öffentliche Feedback-Portal für Lottools.
+
+- Live-Seite: https://lottools.cc
+- [Issue erstellen](https://github.com/chifatty/lottools-feedback/issues/new)
 
 Du kannst es nutzen, um:
 - Bugs zu melden
@@ -175,6 +195,9 @@ Hinweise:
 
 Este repo é o portal público de feedback do Lottools.
 
+- Site em produção: https://lottools.cc
+- [Criar uma issue](https://github.com/chifatty/lottools-feedback/issues/new)
+
 Você pode usá-lo para:
 - reportar bugs
 - sugerir melhorias
@@ -198,6 +221,9 @@ Notas:
 ## Filipino
 
 Ang repo na ito ay ang public feedback portal ng Lottools.
+
+- Live site: https://lottools.cc
+- [Gumawa ng issue](https://github.com/chifatty/lottools-feedback/issues/new)
 
 Maaari mo itong gamitin para sa:
 - pag-report ng bugs
@@ -223,6 +249,9 @@ Paalala:
 
 Repo này là cổng feedback công khai của Lottools.
 
+- Trang chính thức: https://lottools.cc
+- [Tạo issue](https://github.com/chifatty/lottools-feedback/issues/new)
+
 Bạn có thể dùng repo này để:
 - báo lỗi
 - đề xuất cải thiện
@@ -247,6 +276,9 @@ Lưu ý:
 
 repo นี้คือ public feedback portal ของ Lottools
 
+- เว็บไซต์หลัก: https://lottools.cc
+- [สร้าง issue](https://github.com/chifatty/lottools-feedback/issues/new)
+
 คุณสามารถใช้ที่นี่เพื่อ:
 - รายงาน bug
 - เสนอการปรับปรุง
@@ -270,6 +302,9 @@ repo นี้คือ public feedback portal ของ Lottools
 ## Bahasa Indonesia
 
 Repo ini adalah portal feedback publik untuk Lottools.
+
+- Situs produksi: https://lottools.cc
+- [Buat issue](https://github.com/chifatty/lottools-feedback/issues/new)
 
 Anda dapat menggunakannya untuk:
 - melaporkan bug
